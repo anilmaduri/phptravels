@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16626" started-at="2018-04-03T14:06:17Z" finished-at="2018-04-03T14:06:34Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16626" started-at="2018-04-03T14:06:17Z" finished-at="2018-04-03T14:06:34Z">
+      <class name="com.phptravels.tests.ToursTests">
+        <test-method status="PASS" signature="beforeAllClasses()[pri:0, instance:com.phptravels.tests.ToursTests@5c7fa833]" name="beforeAllClasses" is-config="true" duration-ms="11847" started-at="2018-04-03T10:06:17Z" finished-at="2018-04-03T10:06:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeAllClasses -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.phptravels.tests.ToursTests@5c7fa833]" name="setup" is-config="true" duration-ms="79" started-at="2018-04-03T10:06:29Z" finished-at="2018-04-03T10:06:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="tours_booking()[pri:0, instance:com.phptravels.tests.ToursTests@5c7fa833]" name="tours_booking" duration-ms="4650" started-at="2018-04-03T10:06:29Z" finished-at="2018-04-03T10:06:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tours_booking -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.phptravels.tests.ToursTests@5c7fa833]" name="tearDown" is-config="true" duration-ms="0" started-at="2018-04-03T10:06:34Z" finished-at="2018-04-03T10:06:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.phptravels.tests.ToursTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
